@@ -1,5 +1,4 @@
-# adicionar-novo-local-armazenamento-steam
-Adicionar um novo local de armazenamento dos jogos no Steam
+# Adicionar um novo local de armazenamento dos jogos no Steam
 
 Este manual explica como adicionar um novo local de armazenamento para os seus jogos no Steam, pois até o momento, a plataforma só nos permite adicionar um local de armazenamento por unidade, e as vezes queremos centralizar todos os nossos jogos em apenas um local.
 
