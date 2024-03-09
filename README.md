@@ -68,4 +68,4 @@ Editando corretamente o seu arquivo ficará parecido com esse:
 
 Pronto! Agora você poderá instalar seus jogos em outra pasta.
 
-Observe que no momento da instalação de qualquer jogo, o Steam deverá sugerir dois "Disco local (C:)" para instalar o jogo, o último será a nova localização.
+Observe que no momento da instalação de qualquer jogo, o Steam deverá sugerir dois locais de instalação "Disco local (C:)", o último será a nova localização.
